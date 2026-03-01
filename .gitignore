@@ -29,7 +29,6 @@ checkstyle.iws
 .idea
 
 # Vscode project files
-.vscode
 
 # Temp files
 *~
@@ -50,3 +49,5 @@ replay_pid*
 # antlr4 grammar generates these
 **/gen
 **/JavaLanguageLexer.tokens
+config.bat
+node_modules
